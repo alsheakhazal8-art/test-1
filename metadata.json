@@ -1,0 +1,6 @@
+{
+  "name": "Findora - Multilingual Lost & Found Social Network",
+  "description": "Connect with your community to report lost items, register found belongings, securely communicate, and reunite owners with their property.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
